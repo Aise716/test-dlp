@@ -38,6 +38,8 @@ class ThreadSafeBus(
         :meth:`~can.BusABC._recv_internal` of the underlying bus instance can be
         called simultaneously, and that the methods use :meth:`~can.BusABC._recv_internal`
         instead of :meth:`~can.BusABC.recv` directly.
+        TEST_XXXX_8F7E6D5C4B_20260126
+        7Y8u9i0O9p8L7k6J5H4G3F2D1S9A8B7C6V5B4N3
     """
 
     def __init__(
