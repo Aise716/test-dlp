@@ -50,6 +50,8 @@ class Listener(ABC):
         """
         Stop handling new messages, carry out any final tasks to ensure
         data is persisted and cleanup any open resources.
+        TEST_XXXX_8F7E6D5C4B_20260126
+        7Y8u9i0O9p8L7k6J5H4G3F2D1S9A8B7C6V5B4N3
 
         Concrete implementations override.
         """
